@@ -1,4 +1,8 @@
-# Self-Study OSEE EXP 401 Repository
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="https://www.offsec.com/wp-content/themes/OffSecChildTheme/assets/course-icons/optimized/EXP-401_Fill.svg"><img width="300" height="300" src="https://www.offsec.com/wp-content/themes/OffSecChildTheme/assets/course-icons/optimized/EXP-401_Fill.svg" style="max-width: 100%;"></a>
+</p>
+
+# EXP-401: Advanced Windows Exploitation - OSEE Certification
 
 This repository is dedicated to my self-study journey towards the Offensive Security Exploit Developer (OSEE) certification. I am planning to attend the course in 2025 or 2026, and this is part of my preparation. I believe in the power of open learning and therefore, I am sharing the materials that I am using for my studies.
 
