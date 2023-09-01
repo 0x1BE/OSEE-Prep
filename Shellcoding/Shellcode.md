@@ -9,7 +9,7 @@
 ### 📚 Blogs
 
 - [Developing custom shellcode in x64 using pure assembly](https://wajid-nawazish.medium.com/developing-custom-shellcode-in-x64-57172a885d77) - 💡 Recommended
-- [https://xen0vas.github.io/Win32-Reverse-Shell-Shellcode-part-2-Locate-the-Export-Directory-Table/](https://xen0vas.github.io/Win32-Reverse-Shell-Shellcode-part-2-Locate-the-Export-Directory-Table/) - 💡 Recommended
+- [Win32 reverse shellcode - pt .2 - locating the Export Directory Table](https://xen0vas.github.io/Win32-Reverse-Shell-Shellcode-part-2-Locate-the-Export-Directory-Table/) - 💡 Recommended
 - [Finding Kernel32 Base and Function Addresses in Shellcode](https://www.ired.team/offensive-security/code-injection-process-injection/finding-kernel32-base-and-function-addresses-in-shellcode) - 💡 Recommended
 - [Windows/x86 nWinExec PopCalc PEB And Export Directory Table NullFree Dynamic Shellcode](https://packetstormsecurity.com/files/164353/Windows-x86-nWinExec-PopCalc-PEB-And-Export-Directory-Table-NullFree-Dynamic-Shellcode.html) - 💡 Recommended
 - [Windows x64 Shellcode](https://www.tophertimzen.com/blog/windowsx64Shellcode/) - ⏰ Read in your free time
