@@ -33,7 +33,7 @@ Contributions are welcome! If you find an error, or if you think a topic needs m
 ## Contact 
 
 If you have any questions or feedback, feel free to reach out to me. 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/0x1BE.svg?style=social&label=Follow%20%0X1BE)](https://twitter.com/0x1BE)
 
 Happy studying and hacking!
 
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/0x1BE.svg?style=social&label=Follow%20%400X1BE)](https://twitter.com/0X1BE)
