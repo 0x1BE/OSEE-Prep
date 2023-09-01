@@ -29,3 +29,11 @@ This repository is meant for educational purposes only. The use of any informati
 ## Contributions
 
 Contributions are welcome! If you find an error, or if you think a topic needs more explanation, feel free to open an issue or submit a pull request. However, please keep in mind that this repository is a personal study guide, so I might be slow to respond.
+
+## Contact 
+
+If you have any questions or feedback, feel free to reach out to me. 
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/0x1BE.svg?style=social&label=Follow%20%0X1BE)](https://twitter.com/0x1BE)
+
+Happy studying and hacking!
+
