@@ -4,7 +4,7 @@
 
 # EXP-401: Advanced Windows Exploitation - OSEE Certification
 
-This repository is dedicated to my self-study journey towards the Offensive Security Exploit Developer (OSEE) certification. I am planning to attend the course in 2025 or 2026, and this is part of my preparation. I believe in the power of open learning and therefore, I am sharing the materials that I am using for my studies.
+This repository is dedicated to my self-study journey towards the Offensive Security Exploit Expert (OSEE) certification. I am planning to attend the course in 2025 or 2026, and this is part of my preparation. I believe in the power of open learning and therefore, I am sharing the materials that I am using for my studies.
 
 # OSEE 401 Exam Preparation Guide
 
